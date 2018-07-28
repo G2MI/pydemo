@@ -37,7 +37,7 @@ dependencies:
   - conda-verify=2.0.0=py36_0
   - console_shortcut=0.1.1
   - contextlib2=0.5.5=py36_0
-  - cryptography=2.2.2=py36_0
+  - cryptography=2.2.1
   - curl=7.60.0
   - cycler=0.10.0=py36_0
   - cython=0.28.2=py36_0
