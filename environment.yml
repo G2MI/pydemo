@@ -50,7 +50,6 @@ dependencies:
   - docutils=0.14=py36_0
   - entrypoints=0.2.3=py36_2
   - et_xmlfile=1.0.1=py36_0
-  - fastcache=1.0.2=py36_2
   - filelock=3.0.4=py36_0
   - flask=1.0.2=py36_1
   - flask-cors=3.0.4=py36_0
