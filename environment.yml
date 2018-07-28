@@ -91,7 +91,6 @@ dependencies:
   - libtiff=4.0.9
   - libxml2=2.9.8
   - libxslt=1.1.32
-  - llvmlite=0.23.1=py36_0
   - locket=0.2.0=py36_1
   - lxml=4.2.1=py36_0
   - lzo=2.10
