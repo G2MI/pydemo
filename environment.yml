@@ -95,18 +95,18 @@ dependencies:
   - lxml=4.2.1=py36_0
   - lzo=2.10
   - matplotlib=2.2.2=py36_1
-  - numpy=1.14.2=py36_0
-  - numpy-base=1.14.3=py36_1
-  - numpydoc=0.8.0=py36_0
-  - pandas=0.23.0=py36_0
+  - numpy=1.14.4
+  - numpy-base=1.14.4
+  - numpydoc=0.8.0
+  - pandas=0.23.0
   - python=3.6.5
-  - scikit-image=0.13.1=py36_1
-  - scikit-learn=0.19.1=py36_0
+  - scikit-image=0.13.1
+  - scikit-learn=0.19.1
   - tk=8.6.7
-  - toolz=0.9.0=py36_0
-  - tornado=5.0.2=py36_0
-  - traitlets=4.3.2=py36_0
-  - typing=3.6.4=py36_0
+  - toolz=0.9.0
+  - tornado=5.0.2
+  - traitlets=4.3.2
+  - typing=3.6.4
 
   - pip:
     - tables==3.4.3
