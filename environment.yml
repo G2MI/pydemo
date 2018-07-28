@@ -73,7 +73,7 @@ dependencies:
   - jdcal=1.4=py36_0
   - jedi=0.12.0=py36_1
   - jinja2=2.10=py36_0
-  - jpeg=9b=hb83a4c4_2
+  - jpeg=9b
   - jsonschema=2.6.0=py36_0
   - jupyter=1.0.0=py36_4
   - jupyter_client=5.2.3=py36_0
