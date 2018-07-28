@@ -58,7 +58,6 @@ dependencies:
   - glob2=0.6=py36_0
   - greenlet=0.4.13=py36_0
   - h5py=2.7.1=py36_2
-  - hdf5=1.10.2=hac2f561_1
   - heapdict=1.0.0=py36_2
   - html5lib=1.0.1=py36_0
   - icc_rt=2017.0.4
@@ -98,11 +97,6 @@ dependencies:
   - locket=0.2.0=py36_1
   - lxml=4.2.1=py36_0
   - lzo=2.10
-  - m2w64-gcc-libgfortran=5.3.0=6
-  - m2w64-gcc-libs=5.3.0=7
-  - m2w64-gcc-libs-core=5.3.0=7
-  - m2w64-gmp=6.1.0=2
-  - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
   - markupsafe=1.0=py36_1
   - matplotlib=2.2.2=py36_1
   - mccabe=0.6.1=py36_1
@@ -219,7 +213,6 @@ dependencies:
   - typing=3.6.4=py36_0
   - unicodecsv=0.14.1=py36_0
   - urllib3=1.22=py36_0
-  - vc=14
   - vs2015_runtime=14.0.25123=3
   - wcwidth=0.1.7=py36_0
   - webencodings=0.5.1=py36_1
