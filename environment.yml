@@ -60,8 +60,6 @@ dependencies:
   - h5py=2.7.1=py36_2
   - heapdict=1.0.0=py36_2
   - html5lib=1.0.1=py36_0
-  - icc_rt=2017.0.4
-  - icu=58.2
   - idna=2.6=py36_1
   - imageio=2.3.0=py36_0
   - imagesize=1.0.0=py36_0
