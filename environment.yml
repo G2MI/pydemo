@@ -31,7 +31,6 @@ dependencies:
   - cloudpickle=0.5.3=py36_0
   - clyent=1.2.2=py36_1
   - colorama=0.3.9=py36_0
-  - comtypes=1.1.4=py36_0
   - conda=4.5.4=py36_0
   - conda-build=3.10.5=py36_0
   - conda-env=2.6.0
